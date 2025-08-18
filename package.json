@@ -2,9 +2,9 @@
   "name": "terraform-test",
   "version": "1.0.0",
   "description": "",
-  "main": "src/test.js",
+  "main": "src/index.js",
   "scripts": {
-      "start": "node src/test.js"
+      "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
